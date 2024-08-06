@@ -4,23 +4,23 @@ class Calculator
 {
 	public static int getSum(int num1, int num2) {
 		//implement logic
-		return 1;
+		return num1 + num2;
 	}
 	public static int getSub(int num1, int num2) {
 		//implement logic
-		return 1;
+		return num2 - num1;
 	}
 	public static int getMul(int num1, int num2) {
 		//implement logic
-		return 1;
+		return num1 * num2;
 	}
 	public static double getDiv(int num1, int num2) {
 		//implement logic
-		return 1.0;
+		return (double) num1/num2;
 	}
 	public static double getModDiv(int num1, int num2) {
 		//implement logic
-		return 1.0;
+		return num1%num2;
 	}
 	
 }
