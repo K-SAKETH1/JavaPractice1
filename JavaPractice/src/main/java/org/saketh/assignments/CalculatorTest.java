@@ -4,11 +4,11 @@ class Calculator
 {
 	public static int getSum(int num1, int num2) {
 		//implement logic
-		return num1 + num2;
+		return num1 + num2;		
 	}
 	public static int getSub(int num1, int num2) {
 		//implement logic
-		return num2 - num1;
+		return num2 - num1;		//wrong
 	}
 	public static int getMul(int num1, int num2) {
 		//implement logic
