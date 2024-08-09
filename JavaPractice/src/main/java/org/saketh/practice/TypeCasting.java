@@ -15,5 +15,12 @@ public class TypeCasting {
 		System.out.print("Enter your float number: ");
 		int printInteger1 = (int) (s.nextFloat());
 		System.out.println("Integer: "+printInteger1);
+		//Method3 for characters
+		char c1 = 'a';
+		char c2 = 'b';
+		int charToInteger = (int) c1;
+		int charToInteger1 = (int) c2;
+		System.out.println("'a' as integer: "+charToInteger);
+		System.out.println("'b' as integer: "+charToInteger1);
 	}
 }
