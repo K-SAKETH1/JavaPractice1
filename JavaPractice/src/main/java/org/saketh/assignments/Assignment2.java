@@ -1,6 +1,6 @@
 package org.saketh.assignments;
 import java.util.*;
-public class Assigment2 {
+public class Assignment2 {
 	/*In a program, input the side of a square. You have to output the area of the
  square*/
 	public static void main(String[] args)

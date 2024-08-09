@@ -1,6 +1,6 @@
 package org.saketh.assignments;
 import java.util.*;
-public class Assigment1 {
+public class Assignment1 {
 	/* In a program, input 3 numbers: A, B andC. You have to output the average of
  these 3 numbers*/
 	public static void main(String[] args)
