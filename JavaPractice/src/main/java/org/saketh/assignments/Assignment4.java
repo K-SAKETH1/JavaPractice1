@@ -1,6 +1,6 @@
 package org.saketh.assignments;
 import java.util.*;
-public class Assigment4 {
+public class Assignment4 {
 	public static void main(String[] args)
 	{
 		/*

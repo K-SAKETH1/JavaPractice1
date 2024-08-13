@@ -1,6 +1,6 @@
 package org.saketh.assignments;
 import java.util.*;
-public class Assigment6 {
+public class Assignment6 {
 	public static void main(String[] args)
 	{
 		/* Write a Java program to input week number(1-7)and print day of week name

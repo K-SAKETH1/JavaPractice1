@@ -1,6 +1,6 @@
 package org.saketh.assignments;
 import java.util.*;
-public class Assigment7 {
+public class Assignment7 {
 	public static void main(String[] args)
 	{
 		/* Write a Java program that takes a year from the user and print whether that

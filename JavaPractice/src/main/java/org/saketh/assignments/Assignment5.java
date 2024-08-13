@@ -1,6 +1,6 @@
 package org.saketh.assignments;
 import java.util.*;
-public class Assigment5 {
+public class Assignment5 {
 	public static void main(String[] args)
 	{
 		/* You have a fever if your temperature
